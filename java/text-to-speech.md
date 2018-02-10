@@ -2,7 +2,7 @@
 A simple TTS class which uses Talkify.net's TTS service to play a given input. Test out the service today http://talkify.net/
 
 ### Dependencies
-Unforunately this also requires mp3plugin.jar to be added to your class path in order for mp3 decoding to work properly.
+Unfortunately this also requires mp3plugin.jar to be added to your class path in order for mp3 decoding to work properly.
 mp3plugin.jar is an old library that's hard to find on the internet now adays. I've provided a link to one from my website
 [here](http://michaelwflaherty.com/files/mp3plugin.jar). Enjoy
 
